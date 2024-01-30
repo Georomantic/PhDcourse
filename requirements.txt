@@ -1,0 +1,8 @@
+geopandas==0.10.2
+joblib==1.1.0
+matplotlib==3.5.2
+numpy==1.22.3
+pandas==1.4.2
+scikitplot==0.3.7
+session_info==1.0.0
+sklearn==1.0.2
